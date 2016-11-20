@@ -8,7 +8,7 @@
 - kibae@cashtree.id 로 연락 주셔요.
 
 # 지원 분야 
-## 서버 개발자 (채용 완료)
+## 서버 개발자 1분
 - AWS 싱가폴 Region 하드하게 사용 중. EC2, RDS, DynamoDB, S3, CF, SNS, SQS, RedShift 등등
 - PHP7, PostgreSQL 사용. 하지만 굳이 몰라도 됩니다. 같이 하면 됩니다. 서버 언어 바꿔도 됩니다. 같이 해요.
 - HTML5, Jquery, CSS3 알면 좋습니다. 역시 몰라도 됩니다. 서버 API만 짜도 됩니다.
