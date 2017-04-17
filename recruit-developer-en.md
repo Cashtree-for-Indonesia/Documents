@@ -1,5 +1,5 @@
 # Job Opportunity for Developer
-- **Cashtree** ( http://www.cashtree.id/ ) is number one fast-growing mobile advertising publisher company located in Jakarta, Indonesia. Cashtree receive serie A investment through Korean Investment Partners and K Cube Ventures. Currently, Cashtree has more than 8 million users and recently we also started to include game channel into our service. 
+- **Cashtree** ( http://www.cashtree.id/ ) is number one fast-growing mobile advertising publisher company located in Jakarta, Indonesia. **Cashtree** receive serie A investment through Korean Investment Partners and K Cube Ventures. Currently, Cashtree has **more than 8 million users** and recently we also started to include game channel into our service. 
 - We are looking for competent developers to work together in developing Cashtree’s services. For those interested, please send us your CV through email at recruit@cashtree.id . Please see below for requirement and job position: 
 
 ## Job Position
