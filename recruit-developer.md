@@ -1,3 +1,5 @@
+```채용이 마감되었습니다. 관심 가져주셔서 감사드립니다.```
+
 # 개발자 채용
 - 캐시트리 서비스( http://www.cashtree.id/ )를 함께 만들어 나갈 개발자를 찾고 있습니다.
 - 캐시트리는 **인도네시아 현지 모바일 광고 퍼블리셔 1위** 기업으로 빠르게 성장하고 있는 기업입니다.
@@ -7,18 +9,18 @@
 - 관심있으신 분이 계시면 **recruit@cashtree.id** 로 이력서를 메일로 주시면 채용 절차를 진행하도록 하겠습니다. 
 
 # 지원 분야 
-## API 개발자 1분
+## API 개발자 0분
 - AWS 싱가폴 Region을 사용하고 있으며 EC2, RDS, DynamoDB, S3, CloudFront, SNS, SQS, RedShift, Route53 등 다양한 서비스를 사용하고 있습니다.
 - PHP7와 Nodejs, Serverless(AWS API Gateway+Lambda) 조합의 환경으로 서비스를 제공하고 있습니다. 언어에 국한되어 채용하고 있지 않습니다.
 - DB는 PostgreSQL 십여대와 DynamoDB를 사용하고 있습니다.
 - Slack, Github, Devops 경험을 우대합니다.
 
-## Web 개발자 1분
+## Web 개발자 0분
 - 캐시트리 앱의 일부는 웹앱 형태로 제공되고 있습니다. 다양한 웹 컨텐츠를 개발하실 분을 모십니다.
 - HTML5, Jquery, CSS3 경험을 우대합니다.
 - Slack, Github 경험을 우대합니다.
 
-## 안드로이드 앱 개발자 1분
+## 안드로이드 앱 개발자 0분
 - 현재 안드로이드 앱은 RxJava, Retrofit, Glide등 다양한 오픈소스를 적극적으로 활용하여 개발되었습니다.
 - Web 서비스 및 Mobile 서비스 개발 경험이 있으면 지원 가능합니다.
 - 특히 Ad Network 광고 플랫폼 연동 경험이 있다면 해당 경험을 우대합니다.
